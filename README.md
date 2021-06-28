@@ -1,6 +1,6 @@
 Instructions on how to run code using Docker
 
-# Step 1:
+# Step 1: Learn basic tools
 Learn basics about Linux, Git and Docker
 
 # Step 2: Clone the code
@@ -12,5 +12,5 @@ $ cd ./defgrid-release
 $ touch Dockerfile
 Then edit the Docker file 
 
-# Step 4: 
+# Step 4: Run the docker
 Build the docker file and run the container 
